@@ -1,5 +1,5 @@
 ---
-title: Думай медленно ... решай быстро. Даниэль Канеман
+title: Книга: Думай медленно ... решай быстро. Даниэль Канеман
 keywords: [rationality, source, author:DanielKahneman]
 ---
 
