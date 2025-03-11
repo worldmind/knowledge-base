@@ -1,6 +1,6 @@
 ---
 title: Канеман, оценка спортсменов по репрезентативности
-keywords: [rationality, author:DanielKahneman, discrimination, hiring]
+keywords: [rationality, author_DanielKahneman, discrimination, hiring]
 ---
 
 «Предсказания по репрезентативности распространены, но неоптимальны со статистической

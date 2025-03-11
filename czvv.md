@@ -1,6 +1,6 @@
 ---
 title: Различение намеренных действий от физических как причина религий
-keywords: [rationality, religion, author:DanielKahneman, author:PaulBloom]
+keywords: [rationality, religion, author_DanielKahneman, author_PaulBloom]
 ---
 
 «Ощущение действия, совершённого по своей воле, отличается от физической

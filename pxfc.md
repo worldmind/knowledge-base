@@ -1,6 +1,6 @@
 ---
-title: Книга: Думай медленно ... решай быстро. Даниэль Канеман
-keywords: [rationality, source, author:DanielKahneman]
+title: Книга. Думай медленно ... решай быстро. Даниэль Канеман
+keywords: [rationality, source, author_DanielKahneman]
 ---
 
 Книга Даниэля Канемана уже ставшая классикой, хотя если правильно помню
