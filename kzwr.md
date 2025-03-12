@@ -14,3 +14,4 @@ keywords: [rationality, author_DanielKahneman, discrimination, hiring]
 Вскоре команда достигла отличных результатов за небольшие деньги.»
 
 [Даниэль Канеман "Думай медленно... Решай быстро"](pxfc.md), стр. 200
+[Байесово мышление](ecb4.md)
